@@ -1,0 +1,25 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "An application to help pair up people with similar interest/personalities.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frendon001/Friend-Finder.git"
+  },
+  "author": "Fausto Rendon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frendon001/Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/frendon001/Friend-Finder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "path": "^0.12.7"
+  }
+}

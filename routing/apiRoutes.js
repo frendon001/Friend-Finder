@@ -26,6 +26,7 @@ module.exports = function(app) {
     // req.body is available since we're using the body-parser middleware
 
       friendsData.push(req.body);
+      res.json(friendsData[0]);
 
   });
 
