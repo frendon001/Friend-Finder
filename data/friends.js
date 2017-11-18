@@ -4,10 +4,10 @@
 
 var friends = [
 {
-  "name":"Ahmed",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"Homer",
+  "photo":"https://pbs.twimg.com/profile_images/725013638411489280/4wx8EcIA.jpg",
   "scores":[
-      5,
+      1,
       1,
       4,
       4,
